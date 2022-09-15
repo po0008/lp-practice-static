@@ -10,4 +10,4 @@ https://github.com/kuriyama08/lp-practice-static/projects/
 
 # サイトURL
 
-kuriyama08@s239.xrea.com
+http://kuriyama08.s239.xrea.com/
